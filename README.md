@@ -40,7 +40,8 @@ Developed hybrid mobile apps using Ionic + Angular for tournament management, li
 
 ## 📄 Resume
 
-📄 [Download My Resume (PDF)](./Resume%20-%20Ankit%20Maheshwari%202025.pdf)
+- 📄 [Download My Resume (PDF)](./Resume%20-%20Ankit%20Maheshwari%202025.pdf)
+- 📬 [Read My Cover Letter](./Cover-Letter-Ankit-Maheshwari.pdf)
 
 ---
 
