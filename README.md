@@ -54,6 +54,7 @@ Developed hybrid mobile apps using Ionic + Angular for tournament management, li
 - 🧠 [My Articles on Medium](https://ankitmaheshwariin.medium.com)
 - 💼 [My LinkedIn Profile](https://www.linkedin.com/in/ankitmaheshwariin)
 - 💻 [My GitHub Repos](https://github.com/AnkitMaheshwariIn)
+- 🥡 [My StackOverflow Profile](https://stackoverflow.com/users/4057143/ankit-maheshwari)
 
 ---
 
