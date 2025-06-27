@@ -4,6 +4,10 @@
 
 ---
 
+![Hi, I'm Ankit Maheshwari, Fullstack Developer | 10+ Years Experience | Angular · Node.js · MongoDB · Ionic · AWS](./Ankit-LinkedIn-Banner.png)
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a passionate Fullstack Developer with over **10 years of industry experience**, specializing in **Angular**, **Node.js**, **MongoDB**, and **Ionic Framework**. I’ve built high-performance web apps, scalable backend services, and cross-platform mobile apps used by thousands.
